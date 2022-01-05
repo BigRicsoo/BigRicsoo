@@ -1,6 +1,6 @@
 ## Hello Github
 
-My name is Richárd Nagy, I'm a self-taught Junior React developer or at least I would like to be one. I specialize in JavaScript and have worked with such libraries as Redux, Express, Axios. But I also have experience with MySQL, CSS, and PHP.
+My name is Richárd Nagy, I'm a self-taught React developer or at least I would like to be one. I specialize in JavaScript and have worked with such libraries as Redux, Express, Axios. But I also have experience with MySQL, CSS, and PHP.
 
 You can check out my [portfolio](https://richard-nagy.github.io/Portfolio/ "portfolio") or my other projects:
 - [BookShelf][BookShelf], a website to manage your read books
